@@ -85,7 +85,3 @@ Feel free to connect or collaborate!
 📧 [revanthmalagi@gmail.com]  
 🌐 [https://www.linkedin.com/in/revanth-malagi/]
 
-
-## 📜 License
-
-This repository is under the MIT License. See [LICENSE](./LICENSE) for more details.
